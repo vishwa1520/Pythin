@@ -1,2 +1,2 @@
 # Python
-Python_coding
+print(""hello world)
